@@ -4,5 +4,6 @@ This tool will allow you to upload a photo or multiple photos, and find their lo
 
 To install requirements, run the following command:
 
-bash
+```bash
 pip install -e .
+```
